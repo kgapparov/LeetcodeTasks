@@ -1,3 +1,5 @@
+package Arrays;
+
 public class DuplicatedZerosSolution{
     public void duplicatedZeros(int[] arr){
         int zeros = 0;

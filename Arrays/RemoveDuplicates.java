@@ -1,3 +1,5 @@
+package Arrays;
+
 class Solution {
     public int removeDuplicates(int[] nums) {
         int i = 0, j = 0;
